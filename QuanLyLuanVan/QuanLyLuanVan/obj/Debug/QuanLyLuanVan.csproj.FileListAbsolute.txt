@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Form1.resources
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.UC_Dashboard.resources
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\QuanLyLuanVan.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\QuanLyLuanVan.exe.config
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\QuanLyLuanVan.exe
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\QuanLyLuanVan.pdb
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\QuanLyLuanVan.exe
+C:\Users\ADMIN\Downloads\codeinpc.comYoutubeMacDemo\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\QuanLyLuanVan.pdb
