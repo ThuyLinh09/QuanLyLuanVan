@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\SinhVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SinhVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\DoAn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\LoiNhac.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoiNhac.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/QLGiangVien/True/SqlTable/dbo.SinhVien.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/QLGiangVien/True/SqlTable/dbo.LoiNhac.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\GiangVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiangVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QuanLyLuanVan||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/QLGiangVien/True/SqlTable/dbo.GiangVien.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C747E3-8285-463D-9368-7B2EF27B2BC0}|QuanLyLuanVan\\QuanLyLuanVan.csproj|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\quanlyluanvan\\ucthongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7C747E3-8285-463D-9368-7B2EF27B2BC0}|QuanLyLuanVan\\QuanLyLuanVan.csproj|solutionrelative:quanlyluanvan\\ucthongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C747E3-8285-463D-9368-7B2EF27B2BC0}|QuanLyLuanVan\\QuanLyLuanVan.csproj|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\quanlyluanvan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7C747E3-8285-463D-9368-7B2EF27B2BC0}|QuanLyLuanVan\\QuanLyLuanVan.csproj|solutionrelative:quanlyluanvan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C747E3-8285-463D-9368-7B2EF27B2BC0}|QuanLyLuanVan\\QuanLyLuanVan.csproj|e:\\l\u1EADp tr\u00ECnh window\\quanlyluanvan\\quanlyluanvan\\fthemloinhac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7C747E3-8285-463D-9368-7B2EF27B2BC0}|QuanLyLuanVan\\QuanLyLuanVan.csproj|solutionrelative:quanlyluanvan\\fthemloinhac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C747E3-8285-463D-9368-7B2EF27B2BC0}|QuanLyLuanVan\\QuanLyLuanVan.csproj|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\quanlyluanvan\\fgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7C747E3-8285-463D-9368-7B2EF27B2BC0}|QuanLyLuanVan\\QuanLyLuanVan.csproj|solutionrelative:quanlyluanvan\\fgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C747E3-8285-463D-9368-7B2EF27B2BC0}|QuanLyLuanVan\\QuanLyLuanVan.csproj|e:\\l\u1EADp tr\u00ECnh window\\quanlyluanvan\\quanlyluanvan\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{B7C747E3-8285-463D-9368-7B2EF27B2BC0}|QuanLyLuanVan\\QuanLyLuanVan.csproj|solutionrelative:quanlyluanvan\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\GiangVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiangVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\GiangVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GiangVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\SinhVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SinhVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\SinhVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SinhVien.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\DoAn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\DoAn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\LoiNhac.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoiNhac.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\LoiNhac.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoiNhac.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.LoiNhac [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/QLGiangVien/True/SqlTable/dbo.LoiNhac.sql",
+              "ToolTip": "dbo.LoiNhac [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-10T15:25:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoiNhac.sql ",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\LoiNhac.sql",
+              "RelativeDocumentMoniker": "LoiNhac.sql",
+              "ToolTip": "LoiNhac.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-10T15:24:32.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoAn.sql ",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\DoAn.sql",
+              "RelativeDocumentMoniker": "DoAn.sql",
+              "ToolTip": "DoAn.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-10T14:58:20.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.SinhVien [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/QLGiangVien/True/SqlTable/dbo.SinhVien.sql",
+              "ToolTip": "dbo.SinhVien [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-10T14:35:32.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVien.sql ",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\SinhVien.sql",
+              "RelativeDocumentMoniker": "SinhVien.sql",
+              "ToolTip": "SinhVien.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-10T14:28:53.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.GiangVien [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/QLGiangVien/True/SqlTable/dbo.GiangVien.sql",
+              "ToolTip": "dbo.GiangVien [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-10T14:26:50.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GiangVien.sql ",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\GiangVien.sql",
+              "RelativeDocumentMoniker": "GiangVien.sql",
+              "ToolTip": "GiangVien.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-10T14:09:42.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyLuanVan",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\QuanLyLuanVan\\QuanLyLuanVan.csproj",
+              "RelativeDocumentMoniker": "QuanLyLuanVan\\QuanLyLuanVan.csproj",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\QuanLyLuanVan\\QuanLyLuanVan.csproj",
+              "RelativeToolTip": "QuanLyLuanVan\\QuanLyLuanVan.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-10T14:08:09.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UCThongTin.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\QuanLyLuanVan\\UCThongTin.cs",
+              "RelativeDocumentMoniker": "QuanLyLuanVan\\UCThongTin.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\QuanLyLuanVan\\UCThongTin.cs [Design]",
+              "RelativeToolTip": "QuanLyLuanVan\\UCThongTin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:00:39.702Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\QuanLyLuanVan\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyLuanVan\\Form1.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\QuanLyLuanVan\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLyLuanVan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:11:17.308Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FThemLoiNhac.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\QuanLyLuanVan\\FThemLoiNhac.cs",
+              "RelativeDocumentMoniker": "QuanLyLuanVan\\FThemLoiNhac.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\QuanLyLuanVan\\FThemLoiNhac.cs [Design]",
+              "RelativeToolTip": "QuanLyLuanVan\\FThemLoiNhac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:13:37.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FGiangVien.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\QuanLyLuanVan\\FGiangVien.cs",
+              "RelativeDocumentMoniker": "QuanLyLuanVan\\FGiangVien.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh Window\\QuanLyLuanVan\\QuanLyLuanVan\\FGiangVien.cs [Design]",
+              "RelativeToolTip": "QuanLyLuanVan\\FGiangVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:56:59.676Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 42,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
