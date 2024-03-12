@@ -111,7 +111,7 @@
             this.guna2CustomGradientPanel1.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(159)))), ((int)(((byte)(1)))));
             this.guna2CustomGradientPanel1.FillColor3 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(159)))), ((int)(((byte)(1)))));
             this.guna2CustomGradientPanel1.FillColor4 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(159)))), ((int)(((byte)(1)))));
-            this.guna2CustomGradientPanel1.Location = new System.Drawing.Point(3, 3);
+            this.guna2CustomGradientPanel1.Location = new System.Drawing.Point(0, 12);
             this.guna2CustomGradientPanel1.Name = "guna2CustomGradientPanel1";
             this.guna2CustomGradientPanel1.Size = new System.Drawing.Size(455, 101);
             this.guna2CustomGradientPanel1.TabIndex = 0;
@@ -157,7 +157,7 @@
             this.label3.BackColor = System.Drawing.Color.White;
             this.label3.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label3.Location = new System.Drawing.Point(-1, 122);
+            this.label3.Location = new System.Drawing.Point(-4, 131);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(148, 19);
             this.label3.TabIndex = 2;
@@ -169,7 +169,7 @@
             this.label4.BackColor = System.Drawing.Color.White;
             this.label4.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label4.Location = new System.Drawing.Point(21, 154);
+            this.label4.Location = new System.Drawing.Point(18, 163);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(35, 16);
             this.label4.TabIndex = 2;
@@ -181,7 +181,7 @@
             this.label5.BackColor = System.Drawing.Color.White;
             this.label5.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label5.Location = new System.Drawing.Point(81, 154);
+            this.label5.Location = new System.Drawing.Point(78, 163);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(29, 16);
             this.label5.TabIndex = 2;
@@ -193,7 +193,7 @@
             this.label6.BackColor = System.Drawing.Color.White;
             this.label6.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label6.Location = new System.Drawing.Point(141, 154);
+            this.label6.Location = new System.Drawing.Point(138, 163);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(36, 16);
             this.label6.TabIndex = 2;
@@ -205,7 +205,7 @@
             this.label7.BackColor = System.Drawing.Color.White;
             this.label7.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label7.Location = new System.Drawing.Point(202, 154);
+            this.label7.Location = new System.Drawing.Point(199, 163);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(29, 16);
             this.label7.TabIndex = 2;
@@ -217,7 +217,7 @@
             this.label8.BackColor = System.Drawing.Color.White;
             this.label8.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label8.Location = new System.Drawing.Point(265, 154);
+            this.label8.Location = new System.Drawing.Point(262, 163);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(22, 16);
             this.label8.TabIndex = 2;
@@ -229,7 +229,7 @@
             this.label9.BackColor = System.Drawing.Color.White;
             this.label9.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label9.Location = new System.Drawing.Point(323, 154);
+            this.label9.Location = new System.Drawing.Point(320, 163);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(27, 16);
             this.label9.TabIndex = 2;
@@ -241,7 +241,7 @@
             this.label10.BackColor = System.Drawing.Color.White;
             this.label10.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label10.Location = new System.Drawing.Point(386, 154);
+            this.label10.Location = new System.Drawing.Point(383, 163);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(30, 16);
             this.label10.TabIndex = 2;
@@ -253,7 +253,7 @@
             this.label11.BackColor = System.Drawing.Color.White;
             this.label11.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label11.Location = new System.Drawing.Point(21, 174);
+            this.label11.Location = new System.Drawing.Point(18, 183);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(28, 16);
             this.label11.TabIndex = 2;
@@ -265,7 +265,7 @@
             this.label12.BackColor = System.Drawing.Color.White;
             this.label12.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label12.Location = new System.Drawing.Point(81, 174);
+            this.label12.Location = new System.Drawing.Point(78, 183);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(28, 16);
             this.label12.TabIndex = 2;
@@ -277,7 +277,7 @@
             this.label13.BackColor = System.Drawing.Color.White;
             this.label13.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label13.Location = new System.Drawing.Point(141, 174);
+            this.label13.Location = new System.Drawing.Point(138, 183);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(28, 16);
             this.label13.TabIndex = 2;
@@ -289,7 +289,7 @@
             this.label14.BackColor = System.Drawing.Color.White;
             this.label14.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.ForeColor = System.Drawing.Color.Red;
-            this.label14.Location = new System.Drawing.Point(202, 174);
+            this.label14.Location = new System.Drawing.Point(199, 183);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(28, 16);
             this.label14.TabIndex = 2;
@@ -301,7 +301,7 @@
             this.label15.BackColor = System.Drawing.Color.White;
             this.label15.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label15.Location = new System.Drawing.Point(265, 174);
+            this.label15.Location = new System.Drawing.Point(262, 183);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(28, 16);
             this.label15.TabIndex = 2;
@@ -313,7 +313,7 @@
             this.label16.BackColor = System.Drawing.Color.White;
             this.label16.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.ForeColor = System.Drawing.Color.SeaGreen;
-            this.label16.Location = new System.Drawing.Point(323, 174);
+            this.label16.Location = new System.Drawing.Point(320, 183);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(28, 16);
             this.label16.TabIndex = 2;
@@ -325,7 +325,7 @@
             this.label17.BackColor = System.Drawing.Color.White;
             this.label17.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label17.Location = new System.Drawing.Point(386, 174);
+            this.label17.Location = new System.Drawing.Point(383, 183);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(28, 16);
             this.label17.TabIndex = 2;
@@ -337,7 +337,7 @@
             this.label18.BackColor = System.Drawing.Color.White;
             this.label18.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label18.Location = new System.Drawing.Point(-1, 208);
+            this.label18.Location = new System.Drawing.Point(-4, 217);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(84, 19);
             this.label18.TabIndex = 2;
@@ -352,7 +352,7 @@
             this.guna2CustomGradientPanel2.FillColor2 = System.Drawing.Color.WhiteSmoke;
             this.guna2CustomGradientPanel2.FillColor3 = System.Drawing.Color.WhiteSmoke;
             this.guna2CustomGradientPanel2.FillColor4 = System.Drawing.Color.WhiteSmoke;
-            this.guna2CustomGradientPanel2.Location = new System.Drawing.Point(3, 230);
+            this.guna2CustomGradientPanel2.Location = new System.Drawing.Point(0, 239);
             this.guna2CustomGradientPanel2.Name = "guna2CustomGradientPanel2";
             this.guna2CustomGradientPanel2.Size = new System.Drawing.Size(107, 127);
             this.guna2CustomGradientPanel2.TabIndex = 3;
@@ -397,7 +397,7 @@
             this.guna2CustomGradientPanel3.FillColor2 = System.Drawing.Color.WhiteSmoke;
             this.guna2CustomGradientPanel3.FillColor3 = System.Drawing.Color.WhiteSmoke;
             this.guna2CustomGradientPanel3.FillColor4 = System.Drawing.Color.WhiteSmoke;
-            this.guna2CustomGradientPanel3.Location = new System.Drawing.Point(169, 230);
+            this.guna2CustomGradientPanel3.Location = new System.Drawing.Point(166, 239);
             this.guna2CustomGradientPanel3.Name = "guna2CustomGradientPanel3";
             this.guna2CustomGradientPanel3.Size = new System.Drawing.Size(107, 127);
             this.guna2CustomGradientPanel3.TabIndex = 3;
@@ -442,7 +442,7 @@
             this.guna2CustomGradientPanel4.FillColor2 = System.Drawing.Color.WhiteSmoke;
             this.guna2CustomGradientPanel4.FillColor3 = System.Drawing.Color.WhiteSmoke;
             this.guna2CustomGradientPanel4.FillColor4 = System.Drawing.Color.WhiteSmoke;
-            this.guna2CustomGradientPanel4.Location = new System.Drawing.Point(351, 230);
+            this.guna2CustomGradientPanel4.Location = new System.Drawing.Point(348, 239);
             this.guna2CustomGradientPanel4.Name = "guna2CustomGradientPanel4";
             this.guna2CustomGradientPanel4.Size = new System.Drawing.Size(107, 127);
             this.guna2CustomGradientPanel4.TabIndex = 3;
@@ -485,7 +485,7 @@
             this.guna2CircleProgressBar1.FillThickness = 10;
             this.guna2CircleProgressBar1.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2CircleProgressBar1.ForeColor = System.Drawing.Color.White;
-            this.guna2CircleProgressBar1.Location = new System.Drawing.Point(3, 398);
+            this.guna2CircleProgressBar1.Location = new System.Drawing.Point(0, 407);
             this.guna2CircleProgressBar1.Minimum = 0;
             this.guna2CircleProgressBar1.Name = "guna2CircleProgressBar1";
             this.guna2CircleProgressBar1.ProgressColor = System.Drawing.Color.Red;
@@ -506,7 +506,7 @@
             this.guna2CustomGradientPanel5.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(41)))), ((int)(((byte)(123)))));
             this.guna2CustomGradientPanel5.FillColor3 = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(41)))), ((int)(((byte)(123)))));
             this.guna2CustomGradientPanel5.FillColor4 = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(41)))), ((int)(((byte)(123)))));
-            this.guna2CustomGradientPanel5.Location = new System.Drawing.Point(147, 398);
+            this.guna2CustomGradientPanel5.Location = new System.Drawing.Point(144, 407);
             this.guna2CustomGradientPanel5.Name = "guna2CustomGradientPanel5";
             this.guna2CustomGradientPanel5.Size = new System.Drawing.Size(311, 107);
             this.guna2CustomGradientPanel5.TabIndex = 0;
@@ -570,7 +570,7 @@
             this.guna2CustomGradientPanel6.FillColor2 = System.Drawing.Color.WhiteSmoke;
             this.guna2CustomGradientPanel6.FillColor3 = System.Drawing.Color.WhiteSmoke;
             this.guna2CustomGradientPanel6.FillColor4 = System.Drawing.Color.WhiteSmoke;
-            this.guna2CustomGradientPanel6.Location = new System.Drawing.Point(496, 102);
+            this.guna2CustomGradientPanel6.Location = new System.Drawing.Point(493, 111);
             this.guna2CustomGradientPanel6.Name = "guna2CustomGradientPanel6";
             this.guna2CustomGradientPanel6.Size = new System.Drawing.Size(304, 465);
             this.guna2CustomGradientPanel6.TabIndex = 3;
@@ -794,14 +794,14 @@
             // 
             // guna2Separator1
             // 
-            this.guna2Separator1.Location = new System.Drawing.Point(3, 195);
+            this.guna2Separator1.Location = new System.Drawing.Point(0, 204);
             this.guna2Separator1.Name = "guna2Separator1";
             this.guna2Separator1.Size = new System.Drawing.Size(455, 10);
             this.guna2Separator1.TabIndex = 5;
             // 
             // guna2Separator2
             // 
-            this.guna2Separator2.Location = new System.Drawing.Point(3, 371);
+            this.guna2Separator2.Location = new System.Drawing.Point(0, 380);
             this.guna2Separator2.Name = "guna2Separator2";
             this.guna2Separator2.Size = new System.Drawing.Size(455, 10);
             this.guna2Separator2.TabIndex = 5;
@@ -810,7 +810,7 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.White;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(708, -5);
+            this.pictureBox1.Location = new System.Drawing.Point(705, 4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(61, 52);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -830,7 +830,7 @@
             this.guna2Button4.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button4.ForeColor = System.Drawing.Color.White;
             this.guna2Button4.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button4.Image")));
-            this.guna2Button4.Location = new System.Drawing.Point(633, -5);
+            this.guna2Button4.Location = new System.Drawing.Point(630, 4);
             this.guna2Button4.Name = "guna2Button4";
             this.guna2Button4.Size = new System.Drawing.Size(60, 50);
             this.guna2Button4.TabIndex = 4;
@@ -849,7 +849,7 @@
             this.guna2Button5.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button5.ForeColor = System.Drawing.Color.White;
             this.guna2Button5.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button5.Image")));
-            this.guna2Button5.Location = new System.Drawing.Point(574, -5);
+            this.guna2Button5.Location = new System.Drawing.Point(571, 4);
             this.guna2Button5.Name = "guna2Button5";
             this.guna2Button5.Size = new System.Drawing.Size(60, 50);
             this.guna2Button5.TabIndex = 4;

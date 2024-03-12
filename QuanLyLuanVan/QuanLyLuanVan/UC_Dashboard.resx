@@ -121,7 +121,7 @@
   <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAA+IAAAKPCAYAAADpB3B7AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DgAACw4BQL7hQQAA/7JJREFUeF7snQWgHEXWtvm+/XcXDfHrfuPuCUQhCXF3D764w+Lu7u7ubiGEBAiB
+        DQAACw0B7QfALAAA/7JJREFUeF7snQWgHEXWtvm+/XcXDfHrfuPuCUQhCXF3D764w+Lu7u7ubiGEBAiB
         uHtCCDHi7py/nso9dytNzdzcGPuFOuGlu0tPVfedOc9UT89hwYIFCxYsWLBgwYIFCxYsWLBgwYIFCxYs
         WLBgwYIFCxYsWLBgwYIFCxYsWLBgwYIFCxYsWLBgwYIFCxYsWLBgwYIFCxYsWLBgwYIFCxYsWLBgwYIF
         CxYsWLBgwYIFCxYsWLBgwYIFCxYsWLBgwYIFCxYsWLBgwYIFCxYsWLBgwYIFCxYsWLBgwYIFCxYsWLBg
@@ -18095,5 +18095,8 @@
   </data>
   <metadata name="guna2DragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
   </metadata>
 </root>

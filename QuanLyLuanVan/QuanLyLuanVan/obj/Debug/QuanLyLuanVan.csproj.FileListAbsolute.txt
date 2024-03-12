@@ -15,8 +15,6 @@ D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.ex
 D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.pdb
 D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\Guna.UI2.dll
 D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
-D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FGiangVien.resources
-D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\YoutubeMacDemo.Form1.resources
 D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThemLoiNhac.resources
 D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
 D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThongTin.resources
@@ -26,3 +24,16 @@ D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.cs
 D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CopyComplete
 D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.exe
 D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.pdb
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLoiNhac.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Form2.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThemGiangVien.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FAdmin.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FGiangVien.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FSinhVien.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCDSGiangVien.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLich.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCDienThongTinCaNhan.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThongTinCaNhan.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCDSSinhVien.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCDSDoAn.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCHienThiCacBuoc.resources

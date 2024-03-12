@@ -117,34 +117,26 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="btnReset.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="btnSubmit.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="dtpThoigian.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="txtNoidung.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="txtTieude.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="guna2CustomGradientPanel6.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="label26.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="label30.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="label24.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="guna2ImageButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        EAAACxABrSO9dQAAA5VJREFUeF7tnbmKVFEURSvRf3D4DQNFMDFzCsQhVEFQFD9O/QQnnDKNDDU1cAJn
+        94FuOFxe1XvLqnr3nOIsWEnDfr13Pbpaq6v7LoqiKIqiKIqiKIqiKIpiBzgo78pn8ov8W66lPYZP5R1p
+        jy3isHwthy5cru8reUhOwu5e3Yzt+1IekKPY09TQBcrNe1uOYt8zfOi+tKew7PhN5twckQ+k7/BEjvJZ
+        +pBdaBfwm8weHJW+wyc5ig+Yu0KUXbgHDiQhyi7cAweSEGUX7oEDSYiyC/fAgSRE2YV74EASouzCPXAg
+        CVF24R44kIQou3APHEhClF24Bw4kIcou3AMHkhBlF+6BA0mIsgv3wIEkRNmFe+BAEqLswj1wIAlRduEe
+        OJCEKLtwDxxIQpRduAcOJCHKLtwDB5IQZRfugQNJiLIL98CBidyUH+V7eco+MDPb2kXBPXBgAvfkH7l/
+        TXsj3tz4TWYvcA8cGMHey+pvhvlCzo3//GYvcA8cWMEt2d6Mr/KknBvfwewF7oEDS7ghf0t/rW/ytOyB
+        72H2AvfAgQGuy/ZmfJdnZC98F7MXuAcONFyTQzfjrOyJ72P2AvfAAcdV+Uv6vN2Mc7I3vpPZC9wDB/a4
+        LH9Kn7WbcV5GwPcye4F74IC4JNub8UNekFHw3cxe4B40cEW2T1Nz+lYek2O0uV7gHiRwUbZfGT2c8osv
+        baYXuAcJ1A3h4B400Psp642sp6yG+qY+HdwDB/aof/ZOA/fAAUf9x3Ac3AMHGuqlk9XgHjgwQL24uBzc
+        AweWUC+/D4N74MAKlv2A6ricG9/B7AXugQMjDP0I95GcG//5zV7gHjgwgfZNDvb3VObGbzJ7gXvgwETs
+        e8oH+U6esA/MzLZ2UXAPHEhClF24Bw4kIcou3AMHkhBlF+6BA0mIsgv3wIEkRNmFe+BAEqLswj1wIAlR
+        duEeOJCEKLtwDxxIQpRduAcOJCHKLtwDB5IQZRfugQNJiLIL98CBJETZhXvgQBKi7MI9cCAJUXbhHjiQ
+        hCi7cA8cSEKUXbgHDiQhyi7cAweSEGUX7oEDSYiyC/ewQ0Z8oA502Rz/daBLe+SRHdOzCzfFbzLnxm7G
+        Q+k7TDryyN7Y5kPl9rR3do5ix+bZOXtDFyg353M56dg8ww49tHP2hi5Urq/9NaTJB0vuY3fPztl7LNuT
+        20quPYb2WNrT1OSvjKIoiqIoiqIoiqIoiqKIyWLxD9nY2Il3XoXxAAAAAElFTkSuQmCC
+</value>
+  </data>
 </root>

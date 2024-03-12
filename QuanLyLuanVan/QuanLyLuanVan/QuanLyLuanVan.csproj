@@ -37,11 +37,26 @@
       <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="Syncfusion.Core.WinForms, Version=24.2460.9.0, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Core.WinForms.24.2.9\lib\net46\Syncfusion.Core.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Licensing, Version=24.2460.9.0, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Licensing.24.2.9\lib\net46\Syncfusion.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.SfInput.WinForms, Version=24.2460.9.0, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.SfInput.WinForms.24.2.9\lib\net46\Syncfusion.SfInput.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Shared.Base, Version=24.2460.9.0, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Shared.Base.24.2.9\lib\net46\Syncfusion.Shared.Base.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Design" />
     <Reference Include="System.Management" />
     <Reference Include="System.Web" />
+    <Reference Include="System.Xaml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -51,19 +66,40 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAdmin.Designer.cs">
+      <DependentUpon>FAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDangNhap.Designer.cs">
+      <DependentUpon>FDangNhap.cs</DependentUpon>
+    </Compile>
     <Compile Include="FGiangVien.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FGiangVien.Designer.cs">
       <DependentUpon>FGiangVien.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="Form2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FSinhVien.Designer.cs">
+      <DependentUpon>FSinhVien.cs</DependentUpon>
     </Compile>
     <Compile Include="FThemLoiNhac.cs">
       <SubType>Form</SubType>
@@ -73,17 +109,46 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLyLuanVanDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyLuanVanDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UCDSGiangVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCDSGiangVien.Designer.cs">
+      <DependentUpon>UCDSGiangVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCHienThiCacBuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCHienThiCacBuoc.Designer.cs">
+      <DependentUpon>UCHienThiCacBuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCLich.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCLich.Designer.cs">
+      <DependentUpon>UCLich.cs</DependentUpon>
+    </Compile>
     <Compile Include="UCLoiNhac.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="UCLoiNhac.Designer.cs">
       <DependentUpon>UCLoiNhac.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCThongTin.cs">
+    <Compile Include="UCDienThongTinCaNhan.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCThongTin.Designer.cs">
-      <DependentUpon>UCThongTin.cs</DependentUpon>
+    <Compile Include="UCDienThongTinCaNhan.Designer.cs">
+      <DependentUpon>UCDienThongTinCaNhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCThongTinCaNhan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCThongTinCaNhan.Designer.cs">
+      <DependentUpon>UCThongTinCaNhan.cs</DependentUpon>
     </Compile>
     <Compile Include="UC_Dashboard.cs">
       <SubType>UserControl</SubType>
@@ -91,11 +156,32 @@
     <Compile Include="UC_Dashboard.Designer.cs">
       <DependentUpon>UC_Dashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="UCDSSinhVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCDSSinhVien.Designer.cs">
+      <DependentUpon>UCDSSinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCDSDoAn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCDSDoAn.Designer.cs">
+      <DependentUpon>UCDSDoAn.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FAdmin.resx">
+      <DependentUpon>FAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDangNhap.resx">
+      <DependentUpon>FDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FGiangVien.resx">
       <DependentUpon>FGiangVien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FSinhVien.resx">
+      <DependentUpon>FSinhVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FThemLoiNhac.resx">
       <DependentUpon>FThemLoiNhac.cs</DependentUpon>
@@ -110,14 +196,32 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UCDSGiangVien.resx">
+      <DependentUpon>UCDSGiangVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCHienThiCacBuoc.resx">
+      <DependentUpon>UCHienThiCacBuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCLich.resx">
+      <DependentUpon>UCLich.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UCLoiNhac.resx">
       <DependentUpon>UCLoiNhac.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCThongTin.resx">
-      <DependentUpon>UCThongTin.cs</DependentUpon>
+    <EmbeddedResource Include="UCDienThongTinCaNhan.resx">
+      <DependentUpon>UCDienThongTinCaNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCThongTinCaNhan.resx">
+      <DependentUpon>UCThongTinCaNhan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UC_Dashboard.resx">
       <DependentUpon>UC_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCDSSinhVien.resx">
+      <DependentUpon>UCDSSinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCDSDoAn.resx">
+      <DependentUpon>UCDSDoAn.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -134,6 +238,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="QuanLyLuanVanDataSet.xsc">
+      <DependentUpon>QuanLyLuanVanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyLuanVanDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyLuanVanDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyLuanVanDataSet.xss">
+      <DependentUpon>QuanLyLuanVanDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Resources\ic_user.png" />
   </ItemGroup>
   <ItemGroup>
@@ -183,6 +298,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\2-pngtree-beautifully-applicable-ppt-background-for-education-and-teaching-courseware-production-google-slides-and-powerpoint-template-background_297231.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-education-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-education-96.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -17,7 +17,7 @@ namespace QuanLyLuanVan
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FThemLoiNhac());
+            Application.Run(new Form2());
         }
     }
 }

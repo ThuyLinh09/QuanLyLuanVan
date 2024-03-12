@@ -16,5 +16,15 @@ namespace QuanLyLuanVan
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void guna2Button7_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -16,5 +16,15 @@ namespace QuanLyLuanVan
         {
             InitializeComponent();
         }
+
+        private void txtNoidung_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2CustomGradientPanel6_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
