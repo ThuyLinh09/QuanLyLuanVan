@@ -1,0 +1,17 @@
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Release\QuanLyLuanVan.exe.config
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Release\QuanLyLuanVan.exe
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Release\QuanLyLuanVan.pdb
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Release\Guna.UI2.dll
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\QuanLyLuanVan.csproj.AssemblyReference.cache
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\QuanLyLuanVan.FGiangVien.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\YoutubeMacDemo.Form1.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\QuanLyLuanVan.FThemLoiNhac.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\QuanLyLuanVan.Properties.Resources.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\QuanLyLuanVan.UCLoiNhac.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\QuanLyLuanVan.UCThongTin.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\YoutubeMacDemo.UC_Dashboard.resources
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\QuanLyLuanVan.csproj.GenerateResource.cache
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\QuanLyLuanVan.csproj.CopyComplete
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\QuanLyLuanVan.exe
+D:\gopNhanh\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Release\QuanLyLuanVan.pdb

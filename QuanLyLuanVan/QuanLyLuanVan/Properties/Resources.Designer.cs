@@ -63,6 +63,28 @@ namespace QuanLyLuanVan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2_pngtree_beautifully_applicable_ppt_background_for_education_and_teaching_courseware_production_google_slides_and_powerpoint_template_background_29723 {
+            get {
+                object obj = ResourceManager.GetObject("2-pngtree-beautifully-applicable-ppt-background-for-education-and-teaching-course" +
+                        "ware-production-google-slides-and-powerpoint-template-background_29723", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _2_pngtree_beautifully_applicable_ppt_background_for_education_and_teaching_courseware_production_google_slides_and_powerpoint_template_background_297231 {
+            get {
+                object obj = ResourceManager.GetObject("2-pngtree-beautifully-applicable-ppt-background-for-education-and-teaching-course" +
+                        "ware-production-google-slides-and-powerpoint-template-background_297231", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ic_user {
             get {
                 object obj = ResourceManager.GetObject("ic_user", resourceCulture);
